@@ -1,0 +1,87 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial;
+    background-color: #f9f9f9
+}
+.fixed-container {
+	width: 960px;
+	margin: 0 auto ;
+	position: relative;
+}
+.column-left {
+    position: relative;
+    width: 400px;
+    float: left;
+    margin: auto;
+}
+.column-right {
+    position: relative;
+    width: 400px;
+    float: right;
+    margin: auto;
+}
+#action-names {
+    position: relative;
+    width: 350px;
+    height: 30px;
+    margin-bottom: 20px;
+    background-color: #f9f9f9;
+    border: none;
+}
+
+#action-name {
+    position: relative;
+    width: 350px;
+    height: 30px;
+    margin-bottom: 20px;
+    background-color: #f9f9f9;
+    border: none;
+}
+#description {
+    width: 350px;
+    position: relative;
+    height: 250px;
+    margin-bottom: 20px;
+    background-color: #f9f9f9;
+    border: none;
+}
+.column-right button {
+    width: 265px;
+    height: 60px;
+    background-color: rgb(0, 255, 76);
+    border: none;
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    position: relative;
+    margin-bottom: 20px;
+}
+.color {
+    background-color: #ffffff;
+    padding: 20px;
+}
+.name{
+    color: #8993ad;
+}
+.actilon-heading{
+    position: relative;
+    width: 400px;
+    float: left;
+    margin: auto;
+    background-color: #ffffff;
+    border: solid rgb(0, 255, 0);
+}
+.text{
+    position: relative;
+    width: 400px;
+    float: left;
+    background-color: #ffffff;
+    border: solid rgb(0, 255, 0);
+}
+.butt{
+float: right;
+
+}
+.buttt{
+    color: red;
+}
